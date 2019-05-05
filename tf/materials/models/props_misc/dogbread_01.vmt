@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_misc/dogbread_01"
+	"$bumpmap"     "models/props_misc/dogbread_01_normal"
+	"$normalmapalphaenvmapmask" "1"	
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".6"	
+	"$phongfresnelranges"	"[2 1 6]"
+
+}

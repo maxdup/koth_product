@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/rockwall001forest"
+	"$basetexture2" "Nature/grass_07"
+	"%tooltexture" "Nature/rockwall001forest"
+	"$blendmodulatetexture" "Nature/grass_blendmask"
+	"$bumpmap" "Nature/rockwall001_normal"
+	"$bumpmap2" "Nature/dirtground001_height-ssbump"
+	"%keywords" "tf"
+	"$ssbump" "1"
+	"$surfaceprop" "dirt"
+
+
+}

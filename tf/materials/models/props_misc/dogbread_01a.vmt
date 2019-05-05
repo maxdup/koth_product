@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_misc/dogbread_01"
+	"$normalmapalphaphongmask" "1"
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" "2.25"	
+	"$phongfresnelranges"	"[.1 10 10]"
+	"$rimlight" "1"	
+	"$rimlightexponent" "2"	
+	"$rimlightboost" ".2"	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.2 .2 .2]"
+	"$normalmapalphaenvmapmask" "1"	
+}

@@ -19,7 +19,7 @@ There you'll find some documentation detailing the maps's development.
 The recommended parameters for vrad.exe are: -both -final -StaticPropLighting -StaticPropPolys -TextureShadows
 
 ## Philosophy
-This Project aims to polish and maintain Valve's koth_viaduct with an emphasis on balance and performance. We are looking for the best gameplay possible while, of course, staying true to the original. In short, making a classic map one of the most robust levels.
+This Project aims to polish and maintain Valve's koth_viaduct with an emphasis on balance and performance. We are looking for the best gameplay possible while, of course, staying true to the original. In short, making a classic map one of the most robust levels. It is meant to be strictly better in every format, uniting everyone from 4v4, 6v6, highlander and pud
 
 ## Contributing
 If you have changes that fit the project's philosopy, send a pull request our way and we'll review the changes and maybe eventually release a new version.

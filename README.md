@@ -9,7 +9,7 @@ A maintenance effort upon valve's koth viaduct.
 All the asset dependencies (models, textures, etc...) are included in the tf folder.
 
 #### The documentation folder "doc/"
-There you'll find some documentation detailing the maps's development.
+There you'll find some documentation detailing the map's development.
 
 #### The root folder
 - **paklist.txt** is meant to be used with bspzip.exe for the packaging of assets.

@@ -116,3 +116,7 @@ materials/signs/bubblebobbler.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/signs/bubblebobbler.vmt
 materials/signs/bubblebobbler.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/signs/bubblebobbler.vtf
+materials/signs/collectible_timepiece.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/signs/collectible_timepiece.vmt
+materials/signs/collectible_timepiece.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/signs/collectible_timepiece.vtf

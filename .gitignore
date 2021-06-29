@@ -17,6 +17,7 @@ $RECYCLE.BIN/
 # =========================
 
 *.bsp
+*.bsp.unpacked
 *.vmx
 *.lin
 *.prt

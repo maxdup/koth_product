@@ -1,0 +1,8 @@
+"Patch"
+{
+	include materials\tools\toolsblockbullets2.vmt
+	insert { 
+		"%compilepassbullets" 1
+		"$color" "[1 0.0 0.0]"
+	}
+}

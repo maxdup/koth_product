@@ -1,0 +1,8 @@
+"Product.Ding"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"  	"SNDLVL_100dB"	
+	"pitch"			"PITCH_NORM"
+	"wave"	")ui/hitsound.wav"
+}

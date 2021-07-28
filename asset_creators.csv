@@ -1,11 +1,19 @@
 Asset,AssetUrl,Contributor,ContributorUrl
+maps/koth_product_final_level_sounds.txt,,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
 models/props_rocks/cliff_wall_06.mdl,https://tf2maps.net/threads/alpine-rocks-fixed-and-mirrored.38937,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
 models/props_rocks/cliff_wall_06_mirrored.mdl,https://tf2maps.net/threads/alpine-rocks-fixed-and-mirrored.38937,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
 models/props_rocks/cliff_wall_07.mdl,https://tf2maps.net/threads/alpine-rocks-fixed-and-mirrored.38937,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
 models/props_rocks/cliff_wall_07_mirrored.mdl,https://tf2maps.net/threads/alpine-rocks-fixed-and-mirrored.38937,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
 models/props_rocks/cliff_wall_10.mdl,https://tf2maps.net/threads/alpine-rocks-fixed-and-mirrored.38937,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
 models/props_rocks/cliff_wall_10_mirrored.mdl,https://tf2maps.net/threads/alpine-rocks-fixed-and-mirrored.38937,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
+models/props_product/corrugated_metal004.mdl,,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
+models/props_product/corrugated_metal005.mdl,,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
+models/props_product/corrugated_metal006.mdl,,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
+models/props_product/corrugated_metal007.mdl,,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
+models/props_product/stairs001.mdl,,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
 materials/NATURE/BLENDROCKGROUNDWALLFORESTVIADUCT.vmt,,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
 materials/signs/bubblebobbler.vmt,,bblbblr,https://steamcommunity.com/profiles/76561198001243486/
+materials/vgui/maps/menu_photos_koth_product_final.vmt,,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
+materials/vgui/maps/menu_thumb_koth_product_final.vmt,,Mimas Torres,https://steamcommunity.com/id/fubar_xs/
 models/weapons/c_models/trophy_platinum/trophy_platinum.mdl,,?,
 models/props_misc/dogbread_small.mdl,https://tf2maps.net/threads/the-dogbread-pack.16719,Rexy,https://steamcommunity.com/profiles/76561197984171607/

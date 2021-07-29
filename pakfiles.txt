@@ -1,3 +1,7 @@
+maps/koth_product_final.nav
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf/maps/koth_product_final.nav
+maps/koth_product_final_level_sounds.txt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\maps/koth_product_final_level_sounds.txt
 models/weapons/c_models/trophy_platinum/trophy_platinum.mdl
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/weapons/c_models/trophy_platinum/trophy_platinum.mdl
 models/weapons/c_models/trophy_platinum/trophy_platinum.dx80.vtx
@@ -14,6 +18,18 @@ materials/models/weapons/trophy_platinum/trophy_platinum_color.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/weapons/trophy_platinum/trophy_platinum_color.vtf
 materials/models/weapons/trophy_platinum/trophy_platinum_normal.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/weapons/trophy_platinum/trophy_platinum_normal.vtf
+models/props_rocks/cliff_wall_06.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.mdl
+models/props_rocks/cliff_wall_06.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.dx80.vtx
+models/props_rocks/cliff_wall_06.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.dx90.vtx
+models/props_rocks/cliff_wall_06.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.phy
+models/props_rocks/cliff_wall_06.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.sw.vtx
+models/props_rocks/cliff_wall_06.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.vvd
 models/props_misc/dogbread_small.mdl
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/dogbread_small.mdl
 models/props_misc/dogbread_small.dx80.vtx
@@ -38,6 +54,18 @@ materials/models/props_misc/dogbread_01_normal.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_misc/dogbread_01_normal.vtf
 materials/Models/props_misc/dogbread_01a.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/Models/props_misc/dogbread_01a.vmt
+models/props_rocks/cliff_wall_10.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.mdl
+models/props_rocks/cliff_wall_10.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.dx80.vtx
+models/props_rocks/cliff_wall_10.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.dx90.vtx
+models/props_rocks/cliff_wall_10.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.phy
+models/props_rocks/cliff_wall_10.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.sw.vtx
+models/props_rocks/cliff_wall_10.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.vvd
 models/props_rocks/cliff_wall_06_mirrored.mdl
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06_mirrored.mdl
 models/props_rocks/cliff_wall_06_mirrored.dx80.vtx
@@ -86,33 +114,95 @@ models/props_rocks/cliff_wall_07.sw.vtx
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_07.sw.vtx
 models/props_rocks/cliff_wall_07.vvd
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_07.vvd
-models/props_rocks/cliff_wall_10.mdl
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.mdl
-models/props_rocks/cliff_wall_10.dx80.vtx
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.dx80.vtx
-models/props_rocks/cliff_wall_10.dx90.vtx
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.dx90.vtx
-models/props_rocks/cliff_wall_10.phy
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.phy
-models/props_rocks/cliff_wall_10.sw.vtx
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.sw.vtx
-models/props_rocks/cliff_wall_10.vvd
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_10.vvd
-models/props_rocks/cliff_wall_06.mdl
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.mdl
-models/props_rocks/cliff_wall_06.dx80.vtx
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.dx80.vtx
-models/props_rocks/cliff_wall_06.dx90.vtx
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.dx90.vtx
-models/props_rocks/cliff_wall_06.phy
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.phy
-models/props_rocks/cliff_wall_06.sw.vtx
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.sw.vtx
-models/props_rocks/cliff_wall_06.vvd
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_rocks/cliff_wall_06.vvd
+models/props_product/corrugated_metal007.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal007.mdl
+models/props_product/corrugated_metal007.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal007.dx80.vtx
+models/props_product/corrugated_metal007.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal007.dx90.vtx
+models/props_product/corrugated_metal007.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal007.phy
+models/props_product/corrugated_metal007.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal007.sw.vtx
+models/props_product/corrugated_metal007.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal007.vvd
+models/props_product/corrugated_metal005.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal005.mdl
+models/props_product/corrugated_metal005.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal005.dx80.vtx
+models/props_product/corrugated_metal005.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal005.dx90.vtx
+models/props_product/corrugated_metal005.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal005.phy
+models/props_product/corrugated_metal005.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal005.sw.vtx
+models/props_product/corrugated_metal005.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal005.vvd
+models/props_product/corrugated_metal004.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal004.mdl
+models/props_product/corrugated_metal004.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal004.dx80.vtx
+models/props_product/corrugated_metal004.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal004.dx90.vtx
+models/props_product/corrugated_metal004.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal004.phy
+models/props_product/corrugated_metal004.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal004.sw.vtx
+models/props_product/corrugated_metal004.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal004.vvd
+models/props_product/corrugated_metal006.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal006.mdl
+models/props_product/corrugated_metal006.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal006.dx80.vtx
+models/props_product/corrugated_metal006.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal006.dx90.vtx
+models/props_product/corrugated_metal006.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal006.phy
+models/props_product/corrugated_metal006.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal006.sw.vtx
+models/props_product/corrugated_metal006.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/corrugated_metal006.vvd
+models/props_product/stairs001.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/stairs001.mdl
+models/props_product/stairs001.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/stairs001.dx80.vtx
+models/props_product/stairs001.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/stairs001.dx90.vtx
+models/props_product/stairs001.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/stairs001.phy
+models/props_product/stairs001.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/stairs001.sw.vtx
+models/props_product/stairs001.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_product/stairs001.vvd
+materials/models/props_product/WOOD_BRIDGE001.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_product/WOOD_BRIDGE001.vmt
+models/props_misc/the_orange_toolbox.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/the_orange_toolbox.mdl
+models/props_misc/the_orange_toolbox.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/the_orange_toolbox.dx80.vtx
+models/props_misc/the_orange_toolbox.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/the_orange_toolbox.dx90.vtx
+models/props_misc/the_orange_toolbox.phy
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/the_orange_toolbox.phy
+models/props_misc/the_orange_toolbox.sw.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/the_orange_toolbox.sw.vtx
+models/props_misc/the_orange_toolbox.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models/props_misc/the_orange_toolbox.vvd
+materials/models/props_misc/the_orange_toolbox.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_misc/the_orange_toolbox.vmt
+materials/models/props_misc/the_orange_toolbox.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/models/props_misc/the_orange_toolbox.vtf
 materials/NATURE/BLENDROCKGROUNDWALLFORESTVIADUCT.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/NATURE/BLENDROCKGROUNDWALLFORESTVIADUCT.vmt
+materials/OVERLAYS/NO_ENTRY_SORT.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/OVERLAYS/NO_ENTRY_SORT.vmt
+materials/NOSPLASH/WOOD_BRIDGE001.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/NOSPLASH/WOOD_BRIDGE001.vmt
 materials/signs/bubblebobbler.vmt
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/signs/bubblebobbler.vmt
 materials/signs/bubblebobbler.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/signs/bubblebobbler.vtf
+materials/vgui/maps/menu_photos_koth_product_final.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_photos_koth_product_final.vmt
+materials/vgui/maps/menu_photos_koth_product.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials/vgui/maps/menu_photos_koth_product.vtf
